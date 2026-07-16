@@ -2,7 +2,7 @@
 
 Рабочая система, которая каждый день без человека пишет, публикует, обновляет и усиливает статьи блога — и отчитывается о результатах. Крутится в проде на [skillmake.ru](https://skillmake.ru): 130+ статей за три недели, рост показов в Яндексе с ~400 до ~1400/день и топ-10 по 376 запросам за первые две недели после старта индексации.
 
-Здесь выложены **реальные промты, брифы и скрипты** этой фабрики — не учебный пример, а то, что работает прямо сейчас. Разбор всей системы — в статье [«Фабрика SEO-статей на ИИ»](https://skillmake.ru/articles/fabrika-seo-statey-na-ii) блога skillmake.
+Здесь выложены **реальные промты, брифы и скрипты** этой фабрики — не учебный пример, а то, что работает прямо сейчас. Разбор всей системы — в статье [«Контент-завод на ИИ»](https://skillmake.ru/articles/kontent-zavod-na-ii) блога skillmake.
 
 *(EN: a production pipeline of scheduled Claude Code tasks + Kimi CLI that writes, publishes, refreshes and boosts SEO articles daily. Prompts and scripts are in Russian — that's the point: it ranks in Yandex.)*
 
