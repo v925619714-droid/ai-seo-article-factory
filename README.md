@@ -49,6 +49,6 @@
 
 ## Автор
 
-Канал [«Директор по коду»](https://t.me/+J9kyMU5oZotiN2Ji) — как нетехнический руководитель строит продукты руками ИИ. SEO-фабрика — часть проекта [skillmake.ru](https://skillmake.ru).
+Канал [«Директор по коду»](https://t.me/+J9kyMU5oZotiN2Ji) — как нетехнический руководитель строит продукты руками ИИ. SEO-фабрика — часть проекта [skillmake.ru](https://skillmake.ru); навыку, на котором она держится (ставить задачи ИИ и принимать работу), учим на [практикуме](https://skillmake.ru/kurs?utm_source=github&utm_medium=readme&utm_campaign=factory).
 
 Лицензия — MIT.
